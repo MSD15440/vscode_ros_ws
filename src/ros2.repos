@@ -7,4 +7,4 @@ repositories:
   msd:
     type: git
     url: https://github.com/atticusrussell/MSD15440
-    version: main
+    version: cicd
